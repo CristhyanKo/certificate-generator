@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CristhyanKo/skill-ead-proposta-comerical/static/css/main.87b2f7b2.chunk.css",
+    "main.js": "/CristhyanKo/skill-ead-proposta-comerical/static/js/main.355cb959.chunk.js",
+    "main.js.map": "/CristhyanKo/skill-ead-proposta-comerical/static/js/main.355cb959.chunk.js.map",
+    "runtime-main.js": "/CristhyanKo/skill-ead-proposta-comerical/static/js/runtime-main.36ae5688.js",
+    "runtime-main.js.map": "/CristhyanKo/skill-ead-proposta-comerical/static/js/runtime-main.36ae5688.js.map",
+    "static/js/2.a26997b5.chunk.js": "/CristhyanKo/skill-ead-proposta-comerical/static/js/2.a26997b5.chunk.js",
+    "static/js/2.a26997b5.chunk.js.map": "/CristhyanKo/skill-ead-proposta-comerical/static/js/2.a26997b5.chunk.js.map",
+    "static/js/3.aacbfd20.chunk.js": "/CristhyanKo/skill-ead-proposta-comerical/static/js/3.aacbfd20.chunk.js",
+    "static/js/3.aacbfd20.chunk.js.map": "/CristhyanKo/skill-ead-proposta-comerical/static/js/3.aacbfd20.chunk.js.map",
+    "static/js/4.524650e0.chunk.js": "/CristhyanKo/skill-ead-proposta-comerical/static/js/4.524650e0.chunk.js",
+    "static/js/4.524650e0.chunk.js.map": "/CristhyanKo/skill-ead-proposta-comerical/static/js/4.524650e0.chunk.js.map",
+    "static/js/5.cb1d138f.chunk.js": "/CristhyanKo/skill-ead-proposta-comerical/static/js/5.cb1d138f.chunk.js",
+    "static/js/5.cb1d138f.chunk.js.map": "/CristhyanKo/skill-ead-proposta-comerical/static/js/5.cb1d138f.chunk.js.map",
+    "index.html": "/CristhyanKo/skill-ead-proposta-comerical/index.html",
+    "static/css/main.87b2f7b2.chunk.css.map": "/CristhyanKo/skill-ead-proposta-comerical/static/css/main.87b2f7b2.chunk.css.map",
+    "static/js/2.a26997b5.chunk.js.LICENSE.txt": "/CristhyanKo/skill-ead-proposta-comerical/static/js/2.a26997b5.chunk.js.LICENSE.txt",
+    "static/js/3.aacbfd20.chunk.js.LICENSE.txt": "/CristhyanKo/skill-ead-proposta-comerical/static/js/3.aacbfd20.chunk.js.LICENSE.txt",
+    "static/js/4.524650e0.chunk.js.LICENSE.txt": "/CristhyanKo/skill-ead-proposta-comerical/static/js/4.524650e0.chunk.js.LICENSE.txt",
+    "static/js/5.cb1d138f.chunk.js.LICENSE.txt": "/CristhyanKo/skill-ead-proposta-comerical/static/js/5.cb1d138f.chunk.js.LICENSE.txt",
+    "static/media/certificado.198c7a0e.png": "/CristhyanKo/skill-ead-proposta-comerical/static/media/certificado.198c7a0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36ae5688.js",
+    "static/js/3.aacbfd20.chunk.js",
+    "static/css/main.87b2f7b2.chunk.css",
+    "static/js/main.355cb959.chunk.js"
+  ]
+}
