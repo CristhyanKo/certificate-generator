@@ -1,0 +1,8 @@
+{
+  "name": "certificate-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CristhyanKo/certificate-generator",
+  "author": "Cristhyan Kohlhase <cristhyan.ko@outlook.com>",
+  "license": "MIT"
+}
