@@ -2,7 +2,7 @@
 	"name": "certificate-generator",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/CristhyanKo/skill-ead-proposta-comerical",
+	"homepage": "http://cristhyanko.github.io/certificate-generator",
 	"dependencies": {
 		"@react-pdf/renderer": "^2.0.4",
 		"@testing-library/jest-dom": "^5.11.4",
